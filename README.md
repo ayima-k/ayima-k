@@ -7,4 +7,4 @@
     JavaScript / REST Api / Firebase / Axios / AJAX
   ### Library: 
     ReactJS
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ayima-k&color=green&style=for-the-badge)
