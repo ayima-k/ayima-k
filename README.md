@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ayima and Frontend developer.
+### Hi there 👋, I'm Frontend developer.
 
 🌱My skills in Frontend:
   ### Layout: 
