@@ -2,7 +2,7 @@
 
 🌱My skills in Frontend:
   ### Layout: 
-    - HTML / CSS / SCSS / Bootstrap
+    - HTML / CSS / SCSS
   ### Functional: 
     - JavaScript / REST Api / Firebase / Axios / AJAX
   ### Library: 
